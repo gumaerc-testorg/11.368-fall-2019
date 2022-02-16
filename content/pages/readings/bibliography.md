@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 parent_title: Readings
+parent_type: CourseSection
 parent_uid: 7d665df8-a8a8-90a5-9c32-72e13f001551
 title: Full Bibliography
 uid: bf877b45-4c80-db4a-9c16-b6a9a7c74095
