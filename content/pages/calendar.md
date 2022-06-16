@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the class session topics and assignment due dates
+  for 11.368 Environmental Justice Law and Policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
