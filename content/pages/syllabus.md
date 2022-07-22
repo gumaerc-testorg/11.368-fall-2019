@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section presents basic information about 11.367 Environmental Justice
+  Law and Policy, including course policies.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: c662d889-6259-9007-bd75-34fa7a2be51c
 ---
@@ -36,9 +40,9 @@ Grading
 Requirements and grading are as follows:
 
 *   In-class participation (15%)
-*   A brief weekly [response paper]({{< baseurl >}}/pages/assignments#response papers) of not more than 500 words each (35%)
-*   Current event [facilitation]({{< baseurl >}}/pages/assignments#current event facilitation) (15%)
-*   A [project of change or research paper]({{< baseurl >}}/pages/assignments#project of change or research paper) (paper, 30%; presentation, 5%).
+*   A brief weekly {{% resource_link 5ca15d10-ca75-4dd3-383a-c015409dc095 "response paper" "#response papers" %}} of not more than 500 words each (35%)
+*   Current event {{% resource_link 5ca15d10-ca75-4dd3-383a-c015409dc095 "facilitation" "#current event facilitation" %}} (15%)
+*   A {{% resource_link 5ca15d10-ca75-4dd3-383a-c015409dc095 "project of change or research paper" "#project of change or research paper" %}} (paper, 30%; presentation, 5%).
 
 ### Grading Rubric
 
