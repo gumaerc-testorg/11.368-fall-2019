@@ -2,6 +2,7 @@
   "term": "Fall",
   "year": "2019",
   "level": [
+    "Undergraduate",
     "Graduate"
   ],
   "topics": [
@@ -46,6 +47,7 @@
   "learning_resource_types": [
     "Written Assignments"
   ],
-  "site_uid": "88a9e3f5-e759-4b4f-a1f9-f6745aa620fd",
+  "site_uid": "cec259b4-add5-4a53-8ecf-09e094a4758f",
+  "site_short_id": "11.368-fall-2019",
   "title": "Course Metadata"
 }
