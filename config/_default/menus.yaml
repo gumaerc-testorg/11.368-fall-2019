@@ -13,7 +13,7 @@ leftnav:
   weight: 30
 - identifier: bf877b45-4c80-db4a-9c16-b6a9a7c74095
   name: Full Bibliography
-  pageRef: /pages/readings/bibliography
+  pageRef: /pages/readings/full-bibliography
   parent: 7d665df8-a8a8-90a5-9c32-72e13f001551
   weight: 40
 - identifier: 5ca15d10-ca75-4dd3-383a-c015409dc095
