@@ -19,7 +19,7 @@ Due Dates
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-2\. Histories of the Environmental Justice Movement (field trip to [Alternatives for Community and Environment](https://ace-ej.org/))
+2\. Histories of the Environmental Justice Movement (field trip to {{% resource_link "e588150c-01a8-46ae-aa97-f142568c2b05" "Alternatives for Community and Environment" %}})
 {{< tdclose >}}{{< tdopen >}}
 weekly response paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -27,13 +27,13 @@ weekly response paper due
 {{< tdclose >}}{{< tdopen >}}
 weekly response paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-4\. Causation (field trip to [GreenRoots](http://www.greenrootschelsea.org/))
+4\. Causation (field trip to {{% resource_link "02e643d4-1b06-463a-b6f6-c28cd1ac82cf" "GreenRoots" %}})
 {{< tdclose >}}{{< tdopen >}}
 weekly response paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Part II. Advancing Environmental Justice: Risk, Regulation, Knowledge Creation, Land Use, Litigation, and Mobilization**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-5\. Policymaking: Risk Assessment, Cost-Benefit Analysis (guest speaker Paul Shoemaker, [Boston Public Health Commission](https://www.boston.gov/government/cabinets/boston-public-health-commission))
+5\. Policymaking: Risk Assessment, Cost-Benefit Analysis (guest speaker Paul Shoemaker, {{% resource_link "92e454e0-433f-4bf0-aaab-ad1710a93050" "Boston Public Health Commission" %}})
 {{< tdclose >}}{{< tdopen >}}
 
 weekly response paper due
@@ -41,7 +41,7 @@ weekly response paper due
 outline for final paper or project due
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-6\. Forms of Regulation: Standard-Setting, Markets, Disclosure (guest speakers Joe Higgins and Seth Kinderman, [MIT Infrastructure Business Operations](https://web.mit.edu/facilities/about/ibo/index.html); Julie Newman, [MIT Office of Sustainability](https://sustainability.mit.edu/))
+6\. Forms of Regulation: Standard-Setting, Markets, Disclosure (guest speakers Joe Higgins and Seth Kinderman, {{% resource_link "4bb56af8-6747-43f8-b6e3-6f8912fc2aaf" "MIT Infrastructure Business Operations" %}}; Julie Newman, {{% resource_link "cb740ec5-6a08-4260-89a7-7efc1c0a87c0" "MIT Office of Sustainability" %}})
 {{< tdclose >}}{{< tdopen >}}
 weekly response paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -63,7 +63,7 @@ weekly response paper due
 {{< tdclose >}}{{< tdopen >}}
 weekly response paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
-11\. Hazard Mitigation and Inequality (guest speaker Al Bender, [FEMA](https://www.fema.gov/))
+11\. Hazard Mitigation and Inequality (guest speaker Al Bender, {{% resource_link "d49a264d-00b0-495e-9ed0-c9a9cc390e32" "FEMA" %}})
 {{< tdclose >}}{{< tdopen >}}
 weekly response paper due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
